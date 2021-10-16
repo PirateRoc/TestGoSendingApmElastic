@@ -1,0 +1,2 @@
+# TestGoSendingApmElastic
+TestGoSendingApmElastic
